@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+            <<includ[vertopal.com_exp.pdf](https://github.com/user-attachments/files/25030584/vertopal.com_exp.pdf)
+
 # Result
-          <<include your Result here>>
+         thus the data was cleaned and saved into a file successfully.
